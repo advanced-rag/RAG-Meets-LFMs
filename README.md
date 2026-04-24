@@ -2,8 +2,8 @@
 
 Website repository for the tutorial **"When RAG Meets LFMs: Towards Retrieval-Augmented Large Foundation Models"**
 
-- Website: [https://advanced-recommender-systems.github.io/RAG-Meets-LFMs/](https://advanced-recommender-systems.github.io/RAG-Meets-LFMs/)
-- Tutorial Slides: [RA-LFMs-PAKDD Tutorial.pdf](https://advanced-recommender-systems.github.io/RAG-Meets-LFMs/RA-LFMs-PAKDD%20Tutorial.pdf)
+- Website: [https://advanced-rag.github.io/RAG-Meets-LFMs/](https://advanced-rag.github.io/RAG-Meets-LFMs/)
+- Tutorial Slides: [RA-LFMs-PAKDD Tutorial.pdf](https://advanced-rag.github.io/RAG-Meets-LFMs/RA-LFMs-PAKDD%20Tutorial.pdf)
 
 
 ## Overview
