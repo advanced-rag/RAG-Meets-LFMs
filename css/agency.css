@@ -579,7 +579,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 .team-member img {
-  width: 178px;
+  width: auto;
   height: 221.6px;
   border: 7px solid #fff;
 }
